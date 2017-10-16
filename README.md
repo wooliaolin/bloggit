@@ -1,2 +1,0 @@
-# bloggit
-blog 
