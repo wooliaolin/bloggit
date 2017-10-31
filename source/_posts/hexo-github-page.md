@@ -1,5 +1,8 @@
 ---
 title: HEXO+Github,搭建属于自己的博客 <<转载-潘柏信的博客>>
+date: 2017-09-07
+categories: 
+- Hexo
 ---
 
 ### 节选

@@ -1,5 +1,10 @@
 ---
 title: PHP——文档预览功能
+date: 2017-10-16
+categories: 
+- PHP
+- openoffice
+description: office文档在线预览 openoffice 、Office Web 365 在线预览、Word Online 在线预览
 ---
 
 [参考资料1：](http://www.cnblogs.com/wz-ctt/p/6878538.html) http://www.cnblogs.com/wz-ctt/p/6878538.html

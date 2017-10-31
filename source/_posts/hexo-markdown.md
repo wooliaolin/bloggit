@@ -1,5 +1,8 @@
 ---
 title: Markdown语法 与 Hexo常用指令
+date: 2017-09-08
+categories: 
+- Hexo
 ---
 
 # Markdown 语法的简要规则

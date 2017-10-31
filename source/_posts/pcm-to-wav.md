@@ -1,5 +1,9 @@
 ---
 title: PCM转WAV格式在线播放
+date: 2017-09-10
+categories: 
+- javascript
+- pcm
 ---
 
 # pcm_to_wav

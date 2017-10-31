@@ -1,5 +1,10 @@
 ---
 title: RESTful API 设计最佳实践
+date: 2017-10-14
+categories: 
+- php
+- PHP
+- RESTful API
 ---
 > 本文转载自：[众成翻译](http://www.zcfy.cc)
 > 译者：[slane](http://www.zcfy.cc/@slane)
